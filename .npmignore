@@ -17,4 +17,5 @@ npm-debug.log
 
 # Utilities
 .jshintrc
+.editorconfig
 .travis.yml
