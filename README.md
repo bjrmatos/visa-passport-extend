@@ -2,6 +2,7 @@
 
 Abstract and error classes for implementing [visa-passport](https://github.com/borismcr9/visa-passport)'s backend API.
 
+[![Dependencies](https://david-dm.org/borismcr9/visa-passport-extend.png)](https://david-dm.org/borismcr9/visa-passport-extend)
 
 ## Install
 
