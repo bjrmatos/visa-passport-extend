@@ -23,16 +23,16 @@
     "backend"
   ],
   "devDependencies": {
-    "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-watch": "^0.6.1",
-    "load-grunt-tasks": "^0.4.0",
-    "time-grunt": "^0.3.1",
-    "jshint-stylish": "^0.2.0",
-    "chai": "~1.9.1",
-    "mocha": "~1.21.3"
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0",
+    "jshint-stylish": "^2.2.1",
+    "chai": "~3.5.0",
+    "mocha": "~3.2.0"
   },
   "dependencies": {
-    "extend-error": "0.0.1"
+    "extend-error": "0.0.2"
   },
   "scripts": {
     "test": "mocha --reporter spec --require test/bootstrap/node test/*.js"
